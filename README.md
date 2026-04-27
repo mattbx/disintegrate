@@ -19,7 +19,7 @@ Inspired by William Basinski's [Disintegration Loops](https://en.wikipedia.org/w
 
 ## install
 
-via maiden: `;install https://github.com/mattbarron/disintegrate`
+via maiden: `;install https://github.com/mattbx/disintegrate`
 
 or: SSH into norns and clone into `/home/we/dust/code/`
 
